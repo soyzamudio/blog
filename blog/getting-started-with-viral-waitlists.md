@@ -1,13 +1,13 @@
 ---
-title: 'Getting Started with Viral Waitlists: A Complete Guide'
-date: '2025-11-26'
-description: 'Learn how to build a viral waitlist that grows your audience before launch. Discover proven strategies for referral mechanics, engagement, and conversion.'
-author: 'ReferralLoop Team'
+title: "Getting Started with Viral Waitlists: A Complete Guide"
+date: "2025-11-26"
+description: "Learn how to build a viral waitlist that grows your audience before launch. Discover proven strategies for referral mechanics, engagement, and conversion."
+author: "ReferralLoop Team"
 tags:
-  - 'Waitlists'
-  - 'Growth'
-  - 'Referral Marketing'
-  - 'Product Launch'
+  - "Waitlists"
+  - "Growth"
+  - "Referral Marketing"
+  - "Product Launch"
 ---
 
 Building a waitlist is one of the most effective ways to validate your product idea and build an audience before launch. But not all waitlists are created equal. In this guide, we'll show you how to create a **viral waitlist** that grows organically through referral mechanics.
@@ -103,7 +103,7 @@ Key metrics to track:
 Ready to build your viral waitlist? Here's what to do:
 
 1. **Define your value proposition** clearly
-2. **Set up your waitlist platform** (we recommend ReferralLoop 😉)
+2. **Set up your waitlist platform** (we recommend [ReferralLoop](https://referralloop.dev/) 😉)
 3. **Create compelling landing page** copy
 4. **Launch to your network** first
 5. **Iterate based on feedback** and metrics
@@ -116,4 +116,4 @@ Remember: the best time to start building your waitlist was yesterday. The secon
 
 ---
 
-_Have questions about building your waitlist? [Join our community](/) or [check out our documentation](/docs/api) to learn more._
+_Have questions about building your waitlist? [Join our community](https://referralloop.dev/) or [check out our featuers](https://referralloop.dev/features) to learn more._

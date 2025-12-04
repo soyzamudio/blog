@@ -1,13 +1,13 @@
 ---
-title: 'Maximizing Waitlist Conversion Rates: Data-Driven Strategies'
-date: '2025-12-02'
-description: 'Discover proven tactics to increase your waitlist signup rate. Learn from real data and case studies on what actually works to convert visitors into signups.'
-author: 'ReferralLoop Team'
+title: "Maximizing Waitlist Conversion Rates: Data-Driven Strategies"
+date: "2025-12-02"
+description: "Discover proven tactics to increase your waitlist signup rate. Learn from real data and case studies on what actually works to convert visitors into signups."
+author: "ReferralLoop Team"
 tags:
-  - 'Conversion Optimization'
-  - 'Waitlists'
-  - 'Growth'
-  - 'Analytics'
+  - "Conversion Optimization"
+  - "Waitlists"
+  - "Growth"
+  - "Analytics"
 ---
 
 You've built a beautiful waitlist landing page, but visitors are leaving without signing up. Sound familiar? You're not alone. The average waitlist conversion rate hovers around 2-5%, but top performers achieve 10-15% or higher.
@@ -291,4 +291,4 @@ The best conversion rate is the one you're continuously improving.
 
 ---
 
-_Ready to optimize your waitlist? [Get started with ReferralLoop](/) and use our built-in analytics to track and improve your conversion rates. [Check out our documentation](/docs/api) to learn more about our features._
+_Ready to optimize your waitlist? [Get started with ReferralLoop](https://referralloop.dev/) and use our built-in analytics to track and improve your conversion rates. [Check out our features](https://referralloop.dev/) to learn more._

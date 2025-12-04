@@ -1,13 +1,13 @@
 ---
-title: 'Building Referral Programs That Actually Work: A Step-by-Step Guide'
-date: '2025-12-03'
-description: 'Learn how to design and implement referral programs that drive real growth. Discover proven frameworks, reward structures, and common pitfalls to avoid.'
-author: 'ReferralLoop Team'
+title: "Building Referral Programs That Actually Work: A Step-by-Step Guide"
+date: "2025-12-03"
+description: "Learn how to design and implement referral programs that drive real growth. Discover proven frameworks, reward structures, and common pitfalls to avoid."
+author: "ReferralLoop Team"
 tags:
-  - 'Referral Marketing'
-  - 'Growth'
-  - 'Waitlists'
-  - 'Viral Loops'
+  - "Referral Marketing"
+  - "Growth"
+  - "Waitlists"
+  - "Viral Loops"
 ---
 
 Referral programs are one of the most powerful growth engines available to startups and established businesses alike. When done right, they can drive sustainable, cost-effective growth through word-of-mouth. But most referral programs fail—not because the concept is flawed, but because they're poorly designed or executed.
@@ -162,12 +162,14 @@ Where:
 ### Phase 1: Planning (Week 1-2)
 
 1. **Define Goals**
+
    - Target referral rate (e.g., 20% of users refer)
    - Target viral coefficient (e.g., 1.2 = each user brings 1.2 others)
    - Budget constraints
    - Timeline for launch
 
 2. **Research Competitors**
+
    - What do similar products offer?
    - What's working in your industry?
    - What can you do better?
@@ -181,12 +183,14 @@ Where:
 ### Phase 2: Build (Week 3-4)
 
 1. **Technical Implementation**
+
    - Unique referral link generation
    - Tracking and attribution system
    - Reward distribution automation
    - Dashboard for users to track referrals
 
 2. **User Experience**
+
    - Design referral interface
    - Create sharing flows
    - Build reward redemption system
@@ -201,6 +205,7 @@ Where:
 ### Phase 3: Launch (Week 5)
 
 1. **Soft Launch**
+
    - Release to 10-20% of users
    - Monitor metrics closely
    - Gather feedback
@@ -215,6 +220,7 @@ Where:
 ### Phase 4: Optimize (Ongoing)
 
 1. **Measure Everything**
+
    - Referral rate (% of users who refer)
    - Conversion rate (% of referrals that sign up)
    - Viral coefficient
@@ -223,6 +229,7 @@ Where:
    - Reward redemption rate
 
 2. **A/B Test**
+
    - Reward amounts
    - Messaging and copy
    - Timing of prompts
@@ -329,18 +336,23 @@ Show that referrals are working:
 ### Key Metrics
 
 1. **Referral Rate**: % of users who make at least one referral
+
    - Target: 15-30% for consumer products, 5-15% for B2B
 
 2. **Viral Coefficient (K-factor)**: Average referrals per user
+
    - Target: > 1.0 for viral growth (each user brings more than one other)
 
 3. **Conversion Rate**: % of referrals that become customers
+
    - Target: 20-40% depending on product
 
 4. **Time to First Referral**: How quickly users start referring
+
    - Target: < 7 days for engaged users
 
 5. **Cost Per Acquisition (CPA)**: Total referral program cost / new customers
+
    - Target: 50-70% of standard CAC
 
 6. **LTV of Referred Customers**: Lifetime value of referred vs. organic
@@ -480,4 +492,4 @@ Start simple, measure everything, and iterate. Your users will tell you what wor
 
 ---
 
-_Ready to build your referral program? [Get started with ReferralLoop](/) and leverage our built-in referral mechanics, analytics, and reward management. [Check out our documentation](/docs/api) to learn more about implementing referral programs that drive real growth._
+_Ready to build your referral program? [Get started with ReferralLoop](https://referralloop.dev/) and leverage our built-in referral mechanics, analytics, and reward management. [Check out our features](https://referralloop.dev/features) to learn more about implementing referral programs that drive real growth._

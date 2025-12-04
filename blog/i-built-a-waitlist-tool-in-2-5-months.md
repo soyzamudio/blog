@@ -1,14 +1,14 @@
 ---
 title: "I Built a Waitlist Tool in 2.5 Months - Here's What I Learned"
-date: '2025-12-04'
-description: 'A candid look at building ReferralLoop from scratch: the problems I saw, tech decisions, challenges faced, and lessons learned for fellow indie hackers.'
-author: 'Jose Zamudio'
+date: "2025-12-04"
+description: "A candid look at building ReferralLoop from scratch: the problems I saw, tech decisions, challenges faced, and lessons learned for fellow indie hackers."
+author: "Jose Zamudio"
 tags:
-  - 'Indie Hacking'
-  - 'Startup Journey'
-  - 'Product Development'
-  - 'Waitlists'
-  - 'Lessons Learned'
+  - "Indie Hacking"
+  - "Startup Journey"
+  - "Product Development"
+  - "Waitlists"
+  - "Lessons Learned"
 ---
 
 Building a product from zero to launch in 2.5 months is intense. It's also one of the most rewarding experiences I've had as an indie hacker. In this post, I'm sharing the real story behind building ReferralLoop—the problems I saw, the decisions I made, the challenges I faced, and what I'd do differently if I started over.
@@ -288,4 +288,4 @@ The indie hacking journey is about iteration, learning, and building in public. 
 
 ---
 
-_Interested in trying ReferralLoop for your next launch? [Check it out here](/). Have questions about building your own product? [Reach out on Twitter](https://twitter.com/referralloop) or [join our community](/)._
+_Interested in trying ReferralLoop for your next launch? [Check it out here](https://referralloop.dev/). Have questions about building your own product? [Reach out on Twitter](https://twitter.com/referralloop)._
